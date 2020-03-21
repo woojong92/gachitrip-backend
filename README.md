@@ -27,3 +27,8 @@ yarn add pg
 
 yarn add dotenv
 
+yarn add class-validator
+
+yarn add bcrypt
+yarn add @types/bcrypt --dev
+
